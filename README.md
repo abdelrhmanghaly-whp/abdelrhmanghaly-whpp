@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Ghaly</h1>
-<h3 align="center">Studying Computer Sciecne & Artificial Intelligence at Egyptian Russian University.<br> Interested in Computer Vision, ML, also a Competitive programmer!</h3>
+<h2 align="center">Hi 👋, I'm Abdelrhman Ghaly</h2>
+<h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Computer Vision, ML, also a Competitive programmer!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhmanghaly-whp&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhmanghaly-whp" /> </p>
 
