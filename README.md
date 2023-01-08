@@ -1,4 +1,6 @@
 <h2 align="center">Hi 👋, I'm Abdelrhman Ghaly</h2>
+<p align="center">
+    
 <h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Computer Vision, ML, also a Competitive programmer!</h4>
 
 - 🌱 I’m currently learning **Front-end Development & Computer Vision**
