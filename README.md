@@ -15,6 +15,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&locale=en&bg_color=00000000" alt="abdelrhmanghaly-whp" /></p>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanghaly-whp&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="abdelrhmanghaly-whp" /></p>
+<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&locale=en&bg_color=00000000" alt="abdelrhmanghaly-whp" /></pr>
+<pr><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanghaly-whp&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="abdelrhmanghaly-whp" /></pr>
 
