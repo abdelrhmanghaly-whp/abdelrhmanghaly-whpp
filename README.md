@@ -15,7 +15,7 @@
 
 
 
-<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&layout=compact&show_icons=true&theme=tokyonight" alt="abdelrhmanghaly-whp" /></pr>
+<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&theme=tokyonight" alt="abdelrhmanghaly-whp" /></pr>
 <pr><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanghaly-whp&show_icons=true&locale=en&layout=compact&show_icons=true&theme=tokyonight" alt="abdelrhmanghaly-whp" /></pr>
 
 ## 🐍 is searching for contributions
