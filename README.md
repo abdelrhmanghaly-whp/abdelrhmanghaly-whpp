@@ -9,9 +9,9 @@
 
 ## 🌱 I’m currently learning/interested in
 * Front-end development
-* Computer Vision
-* Machine learning
-* Neural networks
+* ReactJS
+* TailWind CSS
+* Search Engine Optimization
 
 
 
