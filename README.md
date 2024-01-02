@@ -15,9 +15,9 @@
 
 
 
-<!--<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&theme=midnight-purple" alt="abdelrhmanghaly-whp" /></pr>-->
-<!--<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanghaly-whp&show_icons=true&locale=en&layout=compact&show_icons=true&theme=midnight-purple" alt="abdelrhmanghaly-whp"/>-->
+<pr>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanghaly-whp&show_icons=true&theme=midnight-purple" alt="abdelrhmanghaly-whp" /></pr>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanghaly-whp&show_icons=true&locale=en&layout=compact&show_icons=true&theme=midnight-purple" alt="abdelrhmanghaly-whp"/>
 
-<!--## 🐍 is searching for contributions
-![snake gif](https://github.com/abdelrhmanghaly-whp/abdelrhmanghaly-whp/blob/output/github-contribution-grid-snake.svg)-->
+## 🐍 is searching for contributions
+![snake gif](https://github.com/abdelrhmanghaly-whp/abdelrhmanghaly-whp/blob/output/github-contribution-grid-snake.svg)
 
