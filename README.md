@@ -7,11 +7,11 @@
 <h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Front-end Development also a Competitive programmer!</h4>
 
 
-## 🌱 I’m currently learning/interested in
+<!--## 🌱 I’m currently learning/interested in
 * Front-end development
 * ReactJS
 * TailWind CSS
-* Search Engine Optimization
+* Search Engine Optimization-->
 
 
 
